@@ -1,0 +1,7 @@
+﻿  大整数的乘法.cpp
+D:\code\算法教材实现\大整数乘法\大整数的乘法\大整数的乘法\大整数的乘法.cpp(9,17): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\code\算法教材实现\大整数乘法\大整数的乘法\大整数的乘法\大整数的乘法.cpp(10,17): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\code\算法教材实现\大整数乘法\大整数的乘法\大整数的乘法\大整数的乘法.cpp(11,17): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\code\算法教材实现\大整数乘法\大整数的乘法\大整数的乘法\大整数的乘法.cpp(12,17): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\code\算法教材实现\大整数乘法\大整数的乘法\大整数的乘法\大整数的乘法.cpp(16,71): warning C4244: “return”: 从“double”转换到“unsigned int”，可能丢失数据
+  大整数的乘法.vcxproj -> D:\code\算法教材实现\大整数乘法\大整数的乘法\Debug\大整数的乘法.exe
